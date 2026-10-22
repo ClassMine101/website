@@ -1,0 +1,23 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (if a build tool is added later)
+node_modules/
+dist/
+.astro/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local env
+.env
+.env.*
+
+# Planning notes belong in the private internal repo, never here
+docs/
